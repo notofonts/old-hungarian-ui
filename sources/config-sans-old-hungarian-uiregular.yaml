@@ -1,8 +1,8 @@
 buildVariable: false
-familyName: Noto Sans Old Hungarian UI-Regular
+familyName: Noto Sans Old Hungarian UI
 googleFonts: true
 includeSubsets:
 - from: Noto Sans
   name: GF_Latin_Core
 sources:
-- NotoSansOldHungarianUI-Regular.glyphs
+- NotoSansOldHungarianUI.glyphs
